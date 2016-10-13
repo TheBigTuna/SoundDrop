@@ -1,2 +1,3 @@
 # SoundDrop
 The idea is to make a Client Server based application that allows people to upload sounds, customize soundboards, etc...
+Octavius
